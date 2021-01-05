@@ -11,6 +11,9 @@ function ResumeFrame() {
                         <div className="row">
                                 <div className="page-title text-center">
                                     <h2 className='white-sans'>Resume <span className="primary"></span> <span className="title-bg">Resume</span></h2>
+                                    <p>Below is my work, and job experience. I would say that the only thing not listed is
+                                        the CU Boulder Hackathon I attended. I had alot of fun and I plan on doing the UCLA hackathon as well in Spring 2021. If you have any questions feel free to contact me.
+                                    </p>
                                     </div>
                                     <div className="row">
                             <div className="col-md-6">

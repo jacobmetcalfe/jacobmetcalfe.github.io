@@ -5,8 +5,10 @@ import CardItem from './CardItem';
 function Cards() {
   return (
     <div className='cards'>
-      <h1>Projects</h1>
-      <p className='text-center'> All Projects Lead To Github Repositories </p>
+    <div className="page-title text-center">
+  <h2 className='white-sans'>Portfolio <span className="primary"></span> <span className="title-bg">Portfolio</span></h2>
+  <p> All Projects Below Lead To Github Repositories.</p>
+  </div>
       <div className='cards__container'>
         <div className='cards__wrapper'>
           <ul className='cards__items'>

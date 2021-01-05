@@ -12,7 +12,8 @@ function Aboutframe() {
                                     <h2 className='white-sans'>Jacob <span className="primary">Metcalfe</span> <span className="title-bg">About</span></h2>
                                     <p>Creative-minded and detail-oriented individual with the ability to adhere to established procedures 
                                       and learn on my own under little or no supervision. Currently a Software Engineer at LinQuest Corporation, 
-                                      incorporating expertise in software design, application development, and quality assurance.</p>
+                                      incorporating expertise in software design, application development, and quality assurance.
+                                    </p>
                                 </div>
                             </div>
                             <div className="col-xs-12 col-md-6">

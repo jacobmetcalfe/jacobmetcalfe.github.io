@@ -76,7 +76,7 @@ function ResumeFrame() {
                                     <Scrollbars style={{height: 290 }}>
                                         <div className="history-item">
                                             <div className="history-icon">
-                                            <i class="fas fa-briefcase"></i>
+                                            <i className="fas fa-briefcase"></i>
                                             </div>
                                             <div className="history-text">
                                                 <h5>Software Engineer Intern</h5>
@@ -91,22 +91,22 @@ function ResumeFrame() {
                                         </div>
                                         <div className="history-item">
                                             <div className="history-icon">
-                                            <i class="fas fa-briefcase"></i>
+                                            <i className="fas fa-briefcase"></i>
                                             </div>
                                             <div className="history-text">
-                                                <h5>Executive Officer</h5>
+                                                <h5>Company Executive Officer</h5>
                                                 <span>Sept 2018 - Present | US Army Reserve, 1st Space Brigade | Fort Carson, CO</span>
                                                 <span>
-                                                <br></br>❖ Assisted in developing a convolutional neural network using Python’s Caffe library.
-                                                <br></br>❖ Explored big data concepts with terabytes of data using Python’s Pandas library and SQL.
-                                                <br></br>❖ Configured software for Windows to become operable on Linux operating systems.
-                                                <br></br>❖ Grasped a firm understanding of PNT satellites and how they operate.
+                                                <br></br>❖ Ensured all administrative actions are complete for a team of 60+ for unit readiness.
+                                                <br></br>❖ Organized company training plans for the unit to ensure deployment readiness.
+                                                <br></br>❖ Wrote standard and policy letters regarding additional duties for the company.
+                                                <br></br>❖ Worked with numerous individuals from different departments to organize firing ranges, field training excercises, etc.
                                                 </span>
                                             </div>
                                         </div>
                                         <div className="history-item">
                                             <div className="history-icon">
-                                            <i class="fas fa-briefcase"></i>
+                                            <i className="fas fa-briefcase"></i>
                                             </div>
                                             <div className="history-text">
                                                 <h5>Software Engineer Intern</h5>
@@ -120,22 +120,23 @@ function ResumeFrame() {
                                         </div>
                                         <div className="history-item">
                                             <div className="history-icon">
-                                            <i class="fas fa-briefcase"></i>
+                                            <i className="fas fa-briefcase"></i>
                                             </div>
                                             <div className="history-text">
                                                 <h5>Senior Technician</h5>
                                                 <span>Aug 2017 - May 2019 | University of Colorado, Colorado Springs | Colorado Springs, CO</span>
                                                 <span>
-                                                <br></br>❖ Developed functional test framework with Python to simulate various software tests.
-                                                <br></br>❖ Implemented numerous GUI implementations into applications using Dialog Blocks.
-                                                <br></br>❖ Configured software for Windows to become operable on Linux operating systems.
-                                                <br></br>❖ Grasped a firm understanding of PNT satellites and how they operate.
+                                               
+                                                <br></br>❖ Led a team of technicians to resolve technical problems around the campus.
+                                                <br></br>❖ Assisted students and professors with technical issues regarding printers, computers, projectors, audio etc.
+                                                <br></br>❖ Performed computer installation, imaging, and bios updates on an industry scale.
+                                                <br></br>❖ Administered Active Directory logs for the student populous.
                                                 </span>
                                             </div>
                                         </div>
                                         <div className="history-item">
                                             <div className="history-icon">
-                                            <i class="fas fa-briefcase"></i>
+                                            <i className="fas fa-briefcase"></i>
                                             </div>
                                             <div className="history-text">
                                                 <h5>Geospatial Engineer</h5>

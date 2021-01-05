@@ -9,6 +9,7 @@ function Aboutframe() {
                         <div className="row">
                         <div className="col-xs-12 col-md-offset-1 col-md-10 col-lg-offset-2 col-lg-8">
                                 <div className="page-title text-center">
+                                    <br></br><br></br>
                                     <h2 className='white-sans'>Jacob <span className="primary">Metcalfe</span> <span className="title-bg">About</span></h2>
                                     <p>Creative-minded and detail-oriented individual with the ability to adhere to established procedures 
                                       and learn on my own under little or no supervision. Currently a Software Engineer at LinQuest Corporation, 

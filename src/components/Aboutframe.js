@@ -22,7 +22,6 @@ function Aboutframe() {
                                     </figure>
                                     <div className="author-desc">
                                       <p><b>Name: </b>Jacob Metcalfe</p>
-                                        <p><b>Date of birth: </b>29th January, 1998</p>
                                         <p><b>Currently Living In: </b>Colorado</p>
                                         <p><b>Hobbies: </b> Mountain Biking, Snowboarding, Photoshop, Video Games</p>
                                     </div>

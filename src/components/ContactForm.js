@@ -7,8 +7,7 @@ function ContactForm() {
             <div className="container-contact2">
                 <div className="wrap-contact2">
                     <form className="contact2-form validate-form">
-                    <span className="contact2-form-title"> Contact Me</span>
-                    <span className="contact2-form-title"> Under Construction (Need To Figure Out How JQuery functions work)</span>
+                    <span className="contact2-form-title"> Under Construction</span>
                     <div className="wrap-input2 validate-input" data-validate="Name is required">
                         <input className="input2" type="text" name="name"/>
                         <span className="focus-input2" data-placeholder="NAME"></span>

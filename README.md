@@ -21,9 +21,7 @@ Site Uses Netlify for CI/CD, when I commit to github, Netlify deploys new site.
 Mobile View Not Completely Configured, so please use web view.
 
 ## Installation
-'''
-npm install
-'''
+`npm install`
 
 ## Roadmap
 - Mobile View Fixing, Adjust CSS Files...

@@ -29,7 +29,7 @@ const ContactForm = () => {
         return false;
       }
 
-      if (!email.includes('@') && !email.includes('.')) {
+      if (!email.includes('@') || !email.includes('.')) {
         alert("Email must be filled out correctly Example: xyz@email.com");
         setLoader(false);
         return false;

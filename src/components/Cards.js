@@ -14,35 +14,39 @@ function Cards() {
           <ul className='cards__items'>
             <CardItem
               src='images/test_image.PNG'
-              text='Convolutional Neural Network'
+              text='Project'
+              description='Will be added, Uploading To GitHub shortly.'
               label='Python'
               path='https://github.com/jacobmetcalfe/Network-Proposal-CS-3910'
             />
-            <CardItem
-              src='images/sys_ad_pic.PNG'
-              text='System Administration Project'
-              description='A network proposal that was made in CS 3910 at University of Colorado at Colorado Springs, It was quite a bit of work, not alot of coding involved, but demonstrates technical writing ability as well as knowledge of IT infrastructure.'
-              label='Bash / Technical Writing'
+          <CardItem
+              src='images/test_image.PNG'
+              text='Project'
+              description='Will be added, Uploading To GitHub shortly.'
+              label='Go'
               path='https://github.com/jacobmetcalfe/Network-Proposal-CS-3910'
             />
           </ul>
           <ul className='cards__items'>
             <CardItem
               src='images/test_image.PNG'
-              text='Compiler Design Project'
-              label='Python'
+              text='Project'
+              description='Will be added, Uploading To GitHub shortly.'
+              label='JavaScript'
               path='https://github.com/jacobmetcalfe/Network-Proposal-CS-3910'
             />
             <CardItem
-              src='images/test_image.PNG'
-              text='Another Project That Has a Long Name'
-              label='Python'
-              path='https://github.com/jacobmetcalfe/Network-Proposal-CS-3910'
+              src='images/portfolio_portfolio_site.PNG'
+              text='Portfolio Website'
+              description='Hosted on Netlify for the moment for CI/CD. Uses React and Firebase.'
+              label='JavaScript / HTML / React / Firebase'
+              path='https://github.com/jacobmetcalfe/jacobmetcalfe.github.io'
             />
-            <CardItem
-              src='images/test_image.PNG'
-              text='Another Project That Has a Long Name'
-              label='Python'
+              <CardItem
+              src='images/sys_ad_pic.PNG'
+              text='System Administration Project'
+              description='A network proposal that was made in CS 3910 at University of Colorado at Colorado Springs, It was quite a bit of work, not alot of coding involved, but demonstrates technical writing ability as well as knowledge of IT infrastructure.'
+              label='Bash / Technical Writing'
               path='https://github.com/jacobmetcalfe/Network-Proposal-CS-3910'
             />
           </ul>

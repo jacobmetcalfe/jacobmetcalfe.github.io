@@ -13,11 +13,11 @@ function Cards() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src='images/test_image.PNG'
-              text='Project'
-              description='Will be added, Uploading To GitHub shortly.'
-              label='Python'
-              path='https://github.com/jacobmetcalfe/Network-Proposal-CS-3910'
+              src='images/algorithm_portfolio.PNG'
+              text='AlgoVisualizer'
+              description='Allows you to visualize algorithms. Time taken reported in the console.'
+              label='JavaScript / Algorithms'
+              path='https://github.com/jacobmetcalfe/AlgoVisualizer'
             />
           <CardItem
               src='images/test_image.PNG'
